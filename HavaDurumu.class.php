@@ -8,8 +8,8 @@
 
 
 /**
- * @method static HavaDurumu il(string $isim) İl belirlemek için parametre olarak plaka gönderin
- * @method static HavaDurumu ilce(string $isim) İlçe belirlemek için parametre olarak isim gönderin
+ * @method HavaDurumu il(string $isim) İl belirlemek için parametre olarak plaka gönderin
+ * @method HavaDurumu ilce(string $isim) İlçe belirlemek için parametre olarak isim gönderin
  */
 class HavaDurumu
 {
